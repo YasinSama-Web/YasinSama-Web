@@ -2,7 +2,7 @@
 - 👀 I’m interested in tecnology
 - 🌱 I’m currently learning Vue Js
 - 💞️ I’m looking to collaborate on [nobody]
-- 📫 How to reach me yas479304@gmail.com
+- 📫 How to reach me agenciadigxter@gmail.com
 
 <!---
 YasinSama-Web/YasinSama-Web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
